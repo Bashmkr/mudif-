@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" class="wf-roboto-n4-active wf-active">
+  <head>
+    <!-- Your head content like meta tags, title, and links to stylesheets -->
+    <script src="https://static.b12.io/static/common/js/b12-context.0a940735e0b0.js"></script>
+    <!-- Other necessary scripts and resources -->
+  </head>
+  <body class="page-client-P9ibjsVZ-site_builder">
+    <!-- Main Content -->
+    <div class="site-builder">
+      <div id="site-builder-app">
+        <div class="main-view-wrapper main-view--allow-scroll is-toolbar-visible main-view--sidebar-hidden should-show-toggle-nav is-editing-available is-sidebar-pane-visible">
+          <div class="main-toolbar"></div>
+          <div class="main-view">
+            <div class="pages-pane side-pane-component is-visible"></div>
+            <div class="main-pane is-side-pane-visible">
+              <div class="sb-preview-container">
+                <!-- Embedded Preview or Content -->
+                <iframe class="sb-preview-frame" src="https://preview.b12.io/client/P9ibjsVZ/site_builder/preview-frame/?msg_secret=f85658df-f24b-489e-b16d-5a59943bf1f6&website_id=858134" style="width: 1240px; transform: scale(0.129839); height: calc(770.186% + 0px);">
+                  <!-- #document Content -->
+                  <html lang="en" class="wf-roboto-n4-active wf-roboto-i4-active wf-roboto-n5-active wf-roboto-n3-active wf-active">
+                    <head>
+                      <!-- Embedded head content -->
+                    </head>
+                    <body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0" data-aos-enabled="true" class="has-fixed-nav is-banner-out has-overlay-nav" style="overflow-y: auto;">
+                      <!-- Video Background Section -->
+                      <section id="home" class="sb-section sb-section-opt-dark has-background option-width-default option-link-decoration-border-bottom-static option-align-left option-title-show-decoration-square option-section-hero option-section-background-image-fixed option-background-image-opacity-70 option-background-image-grayscale option-slider-dotsStyle-2 sb-section--selected" data-sb-id="55443122-a59e-487e-b912-377e6d79c00a" style="min-height: 95vh; padding-top: 90.85px;">
+                        <div class="sb-video-background" style="background-image: url(https://cdn.b12.io/client_media/P9ibjsVZ/1faa1ae-6a09-11ef-af93-0242ac110002-White_Typography_Lets_Explore_The_World_YouTube_Intro-hero_image.jpg);">
+                          <div class="sb-video-background__filter" style="background-image: linear-gradient(0deg, rgba(54, 53, 41, 0.5), rgba(54, 53, 41, 0.5));"></div>
+                        </div>
+                        <video autoplay loop muted playsinline class="sb-video-background__video"></video>
+                        <div class="container sb-container-fixed sb-container"></div>
+                        <div class="sb-section-highlighter" style="right: 0px; left: 0px;"></div>
+                      </section>
+                      <!-- About Section -->
+                      <section id="about" class="sb-section sb-section-opt-light option-image-align-mobile-left option-link-decoration-border-bottom-static option-align-left option-title-show-decoration-square option-imagecrop-rectangle-portrait option-image-align-center option-imagesize-mobile-lg option-image-width-5col option-image-align-left option-image-align-desktop-left option-background-image-opacity-70 option-background-image-grayscale option-slider-dotsStyle-2 option-imagesize-lg" data-sb-id="9aa33986-fef9-49df-b820-0fdfae1a646b" style=""></section>
+                      <!-- Products Section -->
+                      <section id="products" class="sb-section sb-section-opt-light option-columns-3col option-items-shadow option-link-decoration-border-bottom-static option-items-shadow-on-hover option-grid-align-default option-title-show-decoration-square option-align-content-left option-imagecrop-rectangle-landscape option-background-image-fixed option-card-hover-animation-grow option-background-image-opacity-70 option-background-image-grayscale option-slider-dotsStyle-2 option-imagesize-lg option-image-color-hover-revert" data-sb-id="5aad116e-5682-4619-a718-86b57be2035e" style=""></section>
+                      <!-- Contact Section -->
+                      <section id="contact" class="sb-section sb-section-opt-light appointment-inline-view option-link-decoration-border-bottom-static option-align-left option-title-show-decoration-square option-section-background-image-fixed option-background-image-opacity-70 option-background-image-grayscale option-slider-dotsStyle-2 half-width-contact-form option-hide-hours" data-sb-id="e8751ae5-80f7-4098-a6b4-cb1157ce374e" style=""></section>
+                      <!-- Additional Information Section -->
+                      <section id="additional-information" class="sb-section sb-section-opt-light has-background option-background-image-grayscale option-section-background-image-fixed option-background-image-opacity-70 option-align-center option-title-show-decoration-square option-slider-dotsStyle-2" data-sb-id="27b64576-5a9f-4cb0-b845-773b7a148ecf" style=""></section>
+                      <!-- Footer -->
+                      <div id="sb-footer"></div>
+                      <!-- Other scripts and divs -->
+                      <div id="sb-pop"></div>
+                      <div id="sb-post-body-template"></div>
+                      <div id="sb-scripts"></div>
+                      <!-- Global Integrations -->
+                      <div id="sb-gi-post-body"></div>
+                      <!-- Capture preview frame interactions in FullStory -->
+                      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDWFisDW_DCZL-Z0641G-O9mSUgRUdFWJ4&libraries=places"></script>
+                      <script src="https://static.b12.io/static/site_builder/site_builder.c8203b38e4c8.js" crossorigin="anonymous"></script>
+                      <script src="https://apis.google.com/js/api.js"></script>
+                      <script type="text/javascript" id="hs-script-loader" src="//js.hs-scripts.com/553918.js"></script>
+                      <!-- Other scripts -->
+                      <script type="text/javascript"></script>
+                      <!-- FullStory iframe -->
+                      <iframe id="FullStory-iframe" class="fs-hide" style="display: none;"></iframe>
+                    </body>
+                  </html>
+                </iframe>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Other modals, iframes, and scripts -->
+  </body>
+</html>
